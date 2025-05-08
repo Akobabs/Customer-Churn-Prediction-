@@ -1,2 +1,10 @@
-Data/
 venv/
+*.pkl
+*.csv
+*.json
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+*.pkl
+*.zip
+*.txt
