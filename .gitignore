@@ -8,3 +8,6 @@ __pycache__/
 *.pkl
 *.zip
 *.txt
+Data/raw/
+Data/processed/
+notebooks/
